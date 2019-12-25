@@ -1,0 +1,2 @@
+# xplanetest
+simple xplane gcs
